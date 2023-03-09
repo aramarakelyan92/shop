@@ -30,8 +30,9 @@ const App = () => {
                 if(i === index) el.quantity = el.quantity+1;
                 return el;
 
-                setOrdres(nouveuxOrdres);
+                
             })
+            setOrdres(nouveuxOrdres);
         }
 
         
