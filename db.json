@@ -1,0 +1,13 @@
+{
+    "produits": [
+      { "id": 1, "Nomdeproduit": "bodie", "Marque": "orchestra", "taille": "53-56cm", "pris": "20", "image": "https://via.placeholder.com/300/92c952" },
+      { "id": 2, "Nomdeproduit": "pyjama", "Marque": "okaidi", "taille": "64-68cm", "pris": "35.47", "image": "https://via.placeholder.com/300/92c952" },
+      { "id": 3, "Nomdeproduit": "bodie", "Marque": "orchestra", "taille": "53-56cm", "pris": "17.99", "image": "https://via.placeholder.com/300/92c952" },
+      { "id": 4, "Nomdeproduit": "bodie", "Marque": "orchestra", "taille": "53-56cm", "pris": "19.99", "image": "https://via.placeholder.com/300/92c952" },
+      { "id": 5, "Nomdeproduit": "bodie", "Marque": "orchestra", "taille": "53-56cm", "pris": "39.99", "image": "https://via.placeholder.com/300/92c952" },
+      { "id": 6, "Nomdeproduit": "bodie", "Marque": "orchestra", "taille": "53-56cm", "pris": "60", "image": "https://via.placeholder.com/300/92c952" },
+      { "id": 7, "Nomdeproduit": "bodie", "Marque": "orchestra", "taille": "53-56cm", "pris": "15", "image": "https://via.placeholder.com/300/92c952" },
+      { "id": 8, "Nomdeproduit": "bodie", "Marque": "orchestra", "taille": "53-56cm", "pris": "40", "image": "https://via.placeholder.com/300/92c952" }
+    ]
+  }
+
